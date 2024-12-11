@@ -1,0 +1,16 @@
+{
+  "name": "ayurbackend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "bcrypt."
+  ],
+  "author": "Ritu Raj",
+  "license": "ISC",
+  "description": ""
+}
